@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "766043398962",
+    "firebase_url": "https://fisiohome-e2cba.firebaseio.com",
+    "project_id": "fisiohome-e2cba",
+    "storage_bucket": "fisiohome-e2cba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766043398962:android:eb8c663f9decbc0bac2d2b",
+        "android_client_info": {
+          "package_name": "com.example.projeto_integrador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766043398962-6r00jgai8fba66s84s6qh3j5loft55ln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projeto_integrador",
+            "certificate_hash": "498f02675ada3d206c027b2d50ede0b9d1894fc1"
+          }
+        },
+        {
+          "client_id": "766043398962-jnqrttihs89d714q7rekg96qh6e41ghe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTFRcKCAqOIZi3EDo1Pn_D93PM9_sTm9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766043398962-jnqrttihs89d714q7rekg96qh6e41ghe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
